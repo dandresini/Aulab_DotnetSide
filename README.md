@@ -1,4 +1,7 @@
-# Evento a Bari del 15 Settembre 2022 presso la sede di Aulab
+# Blazor Web Assembly
+## Gestire le identità con Azure in soli pochi minuti
+### Evento del 15 Settembre 2022 presso la sede di Aulab di Bari
+
 Spesso la gestione delle identità e degli accessi è un problema e un costo significativo per le applicazioni aziendali, infatti le credenziali degli utenti finali, anche in ottica GDPR, è tutto tranne che una passeggiata: le credenziali vanno conservate in luoghi sicuri, i sistemi **backuppati**, tracciata la loro gestione, gli utenti hanno il diritto di poter cambiare password, gli utenti dimenticano le loro credenziali e quindi si spende tempo per gestione e manutenzione, difficilmente fatturabile.
 La gestione e la manutenzione dell'autenticazione è solo un costo aziendale e un problema per la parte legale di cui però non si può fare a meno. 
 Inoltre la clientela, con ritmi abbastanza elevati, è abituata ad applicazioni che usiamo tutti i giorni che permettono di autenticarsi ai servizi usando la “nostra” identità pubblica legata ai servizi aziendali come Microsoft 365 o personali come Google, Facebook, Twitter chi più ne ha più ne mette.
